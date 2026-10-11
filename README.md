@@ -19,11 +19,8 @@ The dashboard was built to answer questions such as:
 
 ## Dashboard Preview
 
-> Add your Power BI dashboard screenshot here.
-
-```text
 ![Customer Behavior Analytics Dashboard](dashboard.png)
-```
+
 
 ## Key Features
 
