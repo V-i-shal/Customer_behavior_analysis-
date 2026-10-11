@@ -31,8 +31,7 @@ The dashboard was built to answer questions such as:
 - Total Customers
 - Average Rating
 - Average Purchase Value
-- Additional business KPIs can be added, such as Total Revenue and Subscription Rate.
-
+- 
 ### Customer Segmentation
 Interactive slicers allow analysis by:
 - Subscription Status
@@ -43,7 +42,7 @@ Interactive slicers allow analysis by:
 ### Revenue & Sales Analysis
 The dashboard includes:
 - Revenue by Product Category
-- Orders by Product Category
+- Sales by Product Category
 - Revenue by Age Group
 - Top 5 States by Revenue
 
